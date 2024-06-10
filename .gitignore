@@ -1,0 +1,14 @@
+*.ckpt
+*.png
+*.jpg
+*.jpeg
+*.pyc
+*.npy
+*.npz
+*.netcdf
+*.pdf
+*.model
+*.csv
+*.txt
+*.json
+figures.ipynb

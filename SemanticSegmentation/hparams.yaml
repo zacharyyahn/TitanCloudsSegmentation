@@ -1,0 +1,9 @@
+DEFAULT:
+  model: "maskrcnn"
+  lr: 0.00001
+  batch_size: 16
+  epochs: 50
+  resume: ""  
+  resume_epoch: 0
+  resume_version: 0
+  note: ""

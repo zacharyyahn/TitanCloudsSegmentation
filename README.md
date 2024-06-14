@@ -1,6 +1,6 @@
 <h2>Instance Segmentation of Clouds on Titan</h2>
 
-![Header Figure](/iou_compare6.png)
+![Header Figure](/assets/iou_compare7.png)
 
 
 This is the repository for our paper _Rapid Automated Mapping of Clouds on Titan with Instance Segmentation_

@@ -30,12 +30,11 @@ Model should be placed in folder `SemanticSegmentation/saved_models/`. <br>
 `--main.py` runs model training. <br>
 
 **Setup**<br>
-Clone repository, create virtual environment, and install dependencies. We recommend Python version 3.11.5+
+Clone repository and create virtual environment. We recommend Python version 3.11.5+
 ```
 git clone https://github.com/zacharyyahn/TitanCloudsSegmentation.git
 python -m venv TitanCloudsSegmentation
 cd TitanCloudsSegmentation
-pip install -r requirements.txt
 ```
 Activate environment (Windows)
 ```
@@ -45,6 +44,10 @@ Activate environment (Windows)
 Activate environment (UNIX)
 ```
 source /bin/activate
+```
+Install dependencies.
+```
+pip install -r requirements.txt
 ```
 
 **Reproduce our Training** <br>

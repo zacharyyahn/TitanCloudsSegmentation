@@ -9,7 +9,6 @@
 *.pdf
 *.model
 *.csv
-*.txt
 *.json
 *.doc
 *.docx

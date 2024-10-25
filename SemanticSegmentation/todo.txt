@@ -1,0 +1,30 @@
+Paper:
+- data quality section
+- grid methods section
+- conclusions
+- strength of language
+- figure changes
+- small edits
+- additional figure with a flowchart of the whole pipeline?
+
+Code:
+- redo grid methods with individual pixels
+- redo brightness histogram stuff?
+- recalculate areas and other metrics
+- remake all the figures
+- global precision, recall, accuracy
+- readme and other data availability things
+
+Paper Done:
+- filter section (emphasis on data selection to make the problem tractable, not for "high quality"
+
+Code Done:
+- retrain model
+
+
+Notes to be careful of in the text:
+- Instance segmentation, not semantic segmentation
+- Mask-RCNN, not Resnet
+- Curated dataset, not quality metric
+
+Figure out optimal threshold -> Redo predictions -> Redo metrics -> Redo figures

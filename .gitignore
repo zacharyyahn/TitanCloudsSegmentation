@@ -11,4 +11,9 @@
 *.csv
 *.txt
 *.json
+*.doc
+*.docx
+*.zip
+.ipynb_checkpoints/
+__pycache__
 figures.ipynb

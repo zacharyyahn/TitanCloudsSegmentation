@@ -38,7 +38,7 @@ cd TitanCloudsSegmentation
 ```
 Activate environment (Windows)
 ```
-\Scripts\activate.bat
+Scripts\activate.bat
 ```
 
 Activate environment (UNIX)
@@ -52,13 +52,15 @@ pip install -r requirements.txt
 
 **Reproduce our Training** <br>
 ```
+cd InstanceSegmentation
 python main.py hparams.yaml
 ```
 
 **Reproduce our Evaluation** <br>
 ```
+cd InstanceSegmentation
 python eval.py maskrcnn_v0 0.5
 ```
 
 **Reproduce our Metric Calculations** <br>
-Evaluate all cells in calculate_metrics.ipynb
+Evaluate all cells in MetricsCalculation/calculate_metrics.ipynb

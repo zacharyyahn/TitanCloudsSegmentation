@@ -11,6 +11,7 @@
 *.csv
 *.json
 *.doc
+*.tmp
 *.docx
 *.zip
 .ipynb_checkpoints/
